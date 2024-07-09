@@ -115,5 +115,5 @@ First, we want to thank the advice and support Professor Pien and TA gave us. Se
 
 ## References
   
-Sweigart, Al, PyAutoGUI, https://pyautogui.readthedocs.io/en/latest/mouse.html
+Sweigart, Al, PyAutoGUI, https://pyautogui.readthedocs.io/en/latest/mouse.html  
 Bellard, Fabrice, FFmpeg, https://github.com/kkroening/ffmpeg-python/tree/master/ffmpeg
